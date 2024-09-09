@@ -19,6 +19,7 @@ Contact persons
 | May 16, 2024       | Analytics/ML | Djura Smits      | Privacy protection I: federated learning |
 | June 6, 2024       | Analytics    | Flavio Hafner | Privacy protection II: differential privacy |
 | June 13, 2024      | Analytics/ML | Malte Lueken |  Introduction to amortized Bayesian inference |
+| July 4, 2024       | Analytics    | Nishant Joshi (Donders) | Methods for Comparing Unsupervised Clusters Across Modalities in a Single Neuron Dataset |
 | September 12, 2024 | Analytics/ML | Video: Jake Hofman | [Prediction and explanation in the social sciences](https://www.youtube.com/watch?v=iTWkHre3jkY) |
 | October 3, 2024    | Analytics    |  --                | --      |
 | October 10, 2024   | Analytics/ML | Bob Carpenter (Flatiron Institute)    |   PPL design for Bayesian workflow    |
