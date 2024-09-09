@@ -4,7 +4,7 @@ The mission of this SIG is to raise general knowledge on applied analytical solu
 
 We meet roughly every 4 weeks and have, in between, also shared sessions with with Machine Learning SIG.
 
-If you would like to present or invite an external speaker, please feel free to subscribe for any of the upcoming sessions in the table below using a pull request.
+If you would like to present or invite an external speaker, please feel free to subscribe for any of the upcoming sessions in the table below using a pull request or by opening an [issue](https://github.com/NLeSC/analytics-sig/issues).
 
 Contact persons
 - Flavio Hafner (f.hafner@esciencecenter.nl)
@@ -19,7 +19,7 @@ Contact persons
 | May 16, 2024       | Analytics/ML | Djura Smits      | Privacy protection I: federated learning |
 | June 6, 2024       | Analytics    | Flavio Hafner | Privacy protection II: differential privacy |
 | June 13, 2024      | Analytics/ML | Malte Lueken |  Introduction to amortized Bayesian inference |
-| July 4, 2024       | Analytics    | Nishant Joshi (Donders) | Methods for Comparing Unsupervised Clusters Across Modalities in a Single Neuron Dataset |
+| July 4, 2024       | Analytics    | Nishant Joshi (Donders Institute) | Methods for Comparing Unsupervised Clusters Across Modalities in a Single Neuron Dataset |
 | September 12, 2024 | Analytics/ML | Video: Jake Hofman | [Prediction and explanation in the social sciences](https://www.youtube.com/watch?v=iTWkHre3jkY) |
 | October 3, 2024    | Analytics    |  --                | --      |
 | October 10, 2024   | Analytics/ML | Bob Carpenter (Flatiron Institute)    |   PPL design for Bayesian workflow    |
