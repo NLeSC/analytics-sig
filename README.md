@@ -26,3 +26,12 @@ Contact persons
 | November 7, 2024   | Analytics/ML | either of 5/12 or 7/11 are reserved | --      |
 | November 28, 2024  | Analytics    | Erik van Zwet (Leiden UMC)    |   Shrinkage Trilogy    |
 | December 5, 2024   | Analytics/ML | either of 5/12 or 7/11 are reserved |  --     |
+
+# 2023 sessions
+| Date                         | Type           | Speaker                | Topic                                                                   |
+|------------------------------|----------------|------------------------|-------------------------------------------------------------------------|
+| September 14, 2023 | Analytics      | Video: Larry Wasserman  | [Foundations of Statistical Inference](https://www.youtube.com/watch?v=Z-YvWyM6dRQ)                                    |
+| September 21, 2023 | Analytics/ML  | Malte Lueken/Flavio Hafner         | Causal Inference                                                        |
+| October 12, 2023   | Analytics      | Thijs Vroegh           | Social network analysis: the aspect of time                                                |
+| October 19, 2023   | Analytics/ML  | Video: Kyle Cranmer     | [Simulation-based inference, interpretability, and experimental design](https://www.youtube.com/watch?v=Lwoc092z75A) |
+| December 7, 2023   | Analytics      | Chang Sun (Maastricht University) | Differentially private synthetic data                                   |
